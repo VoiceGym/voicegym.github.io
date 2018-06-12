@@ -2,6 +2,9 @@ baseurl = "https://voicegym.github.io/"
 languageCode = "de-de"
 title = "VoiceGym"
 
+publishDir = "docs"
+baseURL = "https://voicegym.github.io/"
+
 # Pagination
 # paginate = 10
 # paginatePath = "page"
