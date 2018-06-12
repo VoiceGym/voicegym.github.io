@@ -1,0 +1,15 @@
+#page-footer {
+    padding-top: 20px;
+}
+
+.footer-logos {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.footer-logos > a + a {
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
