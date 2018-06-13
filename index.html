@@ -11,12 +11,17 @@
     <title>{{ site.title }}</title>
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js" integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe" crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
-
+    
 </head>
-<body>
+<body id="home">
+    <span id="forkongithub">
+        <a href="{{ site.source_link }}" class="bg-blue">
+          Fork me on GitHub
+        </a>
+      </span>
     <div id="main">
         <nav class="top-menu"><ul>
-          <li class="p-home"><a href="{{ site.baseURL}}">VoiceGym</a></li>
+          <li class="p-home"><a href="#home">VoiceGym</a></li>
             {% for node in site.posts reversed %}
               {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
               <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
@@ -47,5 +52,7 @@
     </div>
 
     {% include footer.html %}
+    <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="main.js"></script>
 </body>
 </html>

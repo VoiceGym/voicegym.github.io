@@ -17,7 +17,7 @@ markdown: kramdown
 title:       "VoiceGym"
 keywords:    "voice"
 description: "VoiceGym - Stimmtraining"
-source_link: "https://github.com/t413/SinglePaged"
+source_link: "https://github.com/voicegym/voicegym"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 
