@@ -28,6 +28,13 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : voicegym/voicegym
 rssfeed                  : false
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+
+collections:
+  exercises:
+    output: true
+    permalink: /:collection/:path/
+
+
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
