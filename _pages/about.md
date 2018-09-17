@@ -2,6 +2,7 @@
 title: "About us"
 layout: single
 permalink: "/about/"
+author: KayleeTheMech
 ---
 
 ## Über uns

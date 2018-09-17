@@ -2,6 +2,7 @@
 title: "Warum"
 permalink: "/why"
 layout: single
+author: Sagennrich
 ---
 
 ## Was ist VoiceGym?

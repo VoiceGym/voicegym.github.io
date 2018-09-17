@@ -6,8 +6,8 @@ main:
     url: "/why/"
   - title: "How"
     url: /how/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Exercises"
+    url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

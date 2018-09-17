@@ -1,0 +1,36 @@
+KayleeTheMech:
+  name             : "KayleeTheMech"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "We made this, but my face is here"
+  location         : "Berlin"
+  email            : 
+  links:
+    - label: "Own Page"
+      icon: "fas fa-home"
+      url: "http://kayleethemech.github.io"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/kayleethemech"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kayleethemech"
+
+
+Sagennrich:
+  name             : "Saskia Gennrich"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "We made this, but my face is here"
+  location         : "Berlin"
+  email            : 
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/sagennrich"
+
+TinaTusch:
+  name             : "Tina Tusch"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "We made this, but my face is here"
+  location         : "Berlin"
+  email            : 
+  links:

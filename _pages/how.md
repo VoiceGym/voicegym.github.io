@@ -2,8 +2,13 @@
 title: "Wie"
 permalink: "/how/"
 layout: single
+author: KayleeTheMech
 ---
 
 ## Wie funktioniert das genau?
 
-Momentan ist das Projekt noch sehr in den Rohbaumaßnahmen. Stay tuned.
+VoiceGym ist ein Spektrogrammrekorder
+
+## Play Store
+
+[Get us from Playstore](https://play.google.com/store/apps/details?id=de.voicegym.voicegym)
