@@ -2,7 +2,7 @@
 main:
   - title: "Über VoiceGym"
     url: "/about/"
-  - title: "Übungen"
+  - title: "Stimmtraining"
     url: "/exercises/"
   - title: "Download"
     url: /download/

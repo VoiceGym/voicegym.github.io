@@ -20,6 +20,15 @@ keywords:    "voice"
 description: "An android spectrogram recorder for voice training"
 source_link: "https://github.com/voicegym/voicegym"
 
+colorpalette:
+  darkprimary: "#440820"
+  lightprimary: "#741B47"
+  primary: "#611437"
+  textOnPrimary: "#EEE4E9"
+  textOnWhite: "#BA8DA3"
+  accent: "#FF4786"
+  divider: "#9E5F7E"
+
 locale                   : "de-DE"
 title_separator          : "-"
 name                     : "VoiceGym"

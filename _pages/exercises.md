@@ -1,5 +1,5 @@
 ---
-title: Übungen
+title: Teste zum Stimmtraining
 layout: collection
 permalink: /exercises/
 collection: exercises
