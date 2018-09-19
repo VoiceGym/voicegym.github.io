@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "About"
+  - title: "Über VoiceGym"
     url: "/about/"
-  - title: "Why"
-    url: "/why/"
-  - title: "How"
-    url: /how/
-  - title: "Exercises"
+  - title: "Übungen"
+    url: "/exercises/"
+  - title: "Download"
+    url: /download/
+  - title: "Aktuelles"
     url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/

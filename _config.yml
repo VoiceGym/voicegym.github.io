@@ -20,7 +20,7 @@ keywords:    "voice"
 description: "An android spectrogram recorder for voice training"
 source_link: "https://github.com/voicegym/voicegym"
 
-locale                   : "en-US"
+locale                   : "de-DE"
 title_separator          : "-"
 name                     : "VoiceGym"
 url                      : https://voicegym.github.io

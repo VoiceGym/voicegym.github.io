@@ -1,13 +1,9 @@
 ---
-title: "Wie"
-permalink: "/how/"
+title: "Download"
+permalink: "/download/"
 layout: single
 author: KayleeTheMech
 ---
-
-## Wie funktioniert das genau?
-
-VoiceGym ist ein Spektrogrammrekorder
 
 ## Play Store
 
