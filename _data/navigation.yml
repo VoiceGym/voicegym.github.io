@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Über VoiceGym"
+    url: "/about/"
+  - title: "Stimmtraining"
+    url: "/exercises/"
+  - title: "Mithelfen"
+    url: "/contribute/"
+  - title: "Download"
+    url: /download/
+  - title: "Aktuelles"
+    url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

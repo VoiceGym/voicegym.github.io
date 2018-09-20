@@ -1,48 +1,23 @@
-<footer>
-    <div class="container">
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
 
-        <div class="row">
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+    <li><a href="/impressum/"> <i class="fas fa-link" aria-hidden="true"></i> Impressum</a></li>
+    {% if site.rssfeed %}
+    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> 
+      {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    {%endif%}
 
-            <div class="funded-by">Gefördert von</div>
-        </div>
+  </ul>
+</div>
 
-        <div class="row footer-logos">
-            <div class="one-third column footer-logo">
-                <a href="https://www.bmbf.de/" target="_blank">
-                    <img src="{{ .Site.BaseURL }}images/BMBF_Logo.svg" />
-                </a>
-            </div>
-
-            <div class="one-third column footer-logo">
-                <a href="https://okfn.de/" target="_blank">
-                    <img src="{{ .Site.BaseURL }}images/Logo_okfde_black.svg" />
-                </a>
-
-            </div>
-            <div class="one-third column  footer-logo">
-                <a href="https://prototypefund.de/" target="_blank">
-                    <img height="100px" src="{{ .Site.BaseURL }}images/PrototypeFund-P-Logo.svg" />
-                </a>
-
-
-            </div>
-        </div>
-
-    </div>
-
-    <div class="impress">
-        <nav class="footer-menu">
-            <ul>
-                <li><a href="impressum.html">Impressum</a></li>
-            </ul>
-        </nav>
-    </div>
-
-    <div class="attribution">
-
-        <p>Made with ❤ and 💦 by
-            <a href="https://github.com/pektinasen">Saskia</a>, and this great
-            <a href="https://github.com/t413/SinglePaged/">Single Page Theme</a>
-        </p>
-    </div>
-</footer>
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
