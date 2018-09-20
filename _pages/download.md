@@ -4,6 +4,10 @@ permalink: "/download/"
 layout: single
 author: KayleeTheMech
 author_profile: true
+header:
+  overlay_image: /images/download-splash.jpg
+  overlay_filter: rgba(97, 20, 55, 0.2)
+  caption: "Photo credit: [**Photo by Patrick Lindenberg on Unsplash**](https://unsplash.com)"
 ---
 
 Wir planen VoiceGym hier sowohl direkt, als auch über F-Droid zu veröffentlichen, bisher gibt es VoiceGym allerdings nur über den Playstore.

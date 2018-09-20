@@ -4,6 +4,10 @@ layout: single
 permalink: "/about/"
 author: sagennrich
 author_profile: true
+header: 
+    overlay_image: /images/hero.jpg
+    overlay_filter: rgba(255, 71, 134, 0.2)
+    caption: "Photo credit: [**Photo by Dominic Lowyears on Unsplash**](https://unsplash.com)"
 ---
 
 ## Was ist VoiceGym?

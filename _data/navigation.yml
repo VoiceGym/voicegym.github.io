@@ -4,6 +4,8 @@ main:
     url: "/about/"
   - title: "Stimmtraining"
     url: "/exercises/"
+  - title: "Mithelfen"
+    url: "/contribute/"
   - title: "Download"
     url: /download/
   - title: "Aktuelles"
