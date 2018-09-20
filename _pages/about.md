@@ -2,7 +2,7 @@
 title: "Was und Wer ist VoiceGym"
 layout: single
 permalink: "/about/"
-author: sagennrich
+author: Sagennrich
 author_profile: true
 header: 
     overlay_image: /images/hero.jpg

@@ -6,9 +6,12 @@ author_profile: true
 toc: true
 toc_label: "Inhalt"
 toc_icon: "cog"
+header: 
+    overlay_image: /images/exercises-splash.jpg
+    overlay_filter: rgba(86, 8, 32, 0.7)
+    caption: "Photo credit: [**Photo by bruce mars on Unsplash**](https://unsplash.com)"
+excerpt: "Stimmqualitäten welche beim trans* weiblichen Stimmtraining geübt werden können."
 ---
-
-Stimmqualitäten welche beim  trans* weiblichen Stimmtraining geübt werden können.
 
 ## Einleitung
 

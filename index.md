@@ -9,26 +9,20 @@ header:
         - label: "Download" 
           url: "/download/"
     caption: "Photo credit: [**Photo by Dominic Lowyears on Unsplash**](https://unsplash.com)"
-excerpt: "A spectrogram recorder for Android phones to assist you with your voice training."
+excerpt: "VoiceGym ist ein Spektrogrammrekorder für Android, der dich bei deinem Stimmtraining unterstützen möchte."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Wir möchten sichtbar machen was ein ungeschultes Gehör noch nicht wahrnehmen kann. In der Hoffnung dass diese Anwendung sich selbst überflüssig macht.'
 
 
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /images/gnu.png
-    title: "Open Source"
+  - title: "Konfigurierbar"
+    excerpt: "Die Darstellung des Spektrograms ist konfigurierbar für deine Vorlieben. Das dargestellte Frequenzband kann frei gewählt werden (von 10 bis 22kHz). Und zwar egal ob du eine logarithmische oder lineare Frequenzdarstellung bevorzugst."
+  - title: "Live oder Aufnahme"
+    excerpt: "Du kannst dir das Spektrogramm interaktiv vor einer, während einer und nach der Aufnahme dir anzeigen lassen."
+    #url: "/usage/"
+    #btn_label: "Bedienung"
+    #btn_class: "btn--primary"
+  - title: "Open Source"
     excerpt: "Unser gesamter Quellcode ist veröffentlicht unter der GNU General Public License (Version 3.0). Ihr seid eingeladen mit Ideen, Verbesserungsvorschläge oder gar Codebeiträgen mitzuhelfen."
     url: "/contribute/"
     btn_label: "Mithelfen"

@@ -5,9 +5,9 @@ KayleeTheMech:
   location         : "Berlin"
   email            : 
   links:
-    - label: "Own Page"
-      icon: "fas fa-home"
-      url: "http://kayleethemech.github.io"
+    #- label: "Own Page"
+    #  icon: "fas fa-home"
+    #  url: "http://kayleethemech.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/kayleethemech"
