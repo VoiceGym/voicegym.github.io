@@ -10,3 +10,20 @@ $divider: #9E5F7E;
     background-color: $primary;
     color: $textOnPrimary;
 }
+
+.imagediv{
+    width: 100%;
+}
+
+@media (min-width: $medium) {
+    .clearfix:after{
+        display:table;
+        content: '';
+        clear: both;
+        
+    }
+    
+    .floatimage{
+        float: right;
+    }
+}

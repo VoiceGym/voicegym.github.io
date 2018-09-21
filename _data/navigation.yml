@@ -4,12 +4,17 @@ main:
     url: "/about/"
   - title: "Stimmtraining"
     url: "/exercises/"
-  - title: "Mithelfen"
-    url: "/contribute/"
   - title: "Download"
     url: /download/
   - title: "Aktuelles"
     url: /year-archive/
+  - title: "Mithelfen"
+    url: "/contribute/"
+  - title: "Screenshots"
+    url: "/usage/"
+  - title: "Konfiguration"
+    url: "/configuration/"
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
