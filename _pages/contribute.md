@@ -7,7 +7,7 @@ author_profile: true
 header:
   overlay_image: /images/contribute-splash.jpg
   overlay_filter: rgba(255, 71, 134, 0.2)
-  caption: "Photo credit: [**Photo by Art Lasovsky on Unsplash**](https://unsplash.com)"
+  caption: "[**Photo by Art Lasovsky on Unsplash**](https://unsplash.com)"
 ---
 Du möchtest helfen! <i class="fas fa-heart" aria-hidden="true" style="color:#c7254e">
 
