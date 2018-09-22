@@ -43,5 +43,5 @@ header:
 <p>Die Anzahl an Werten in dem Datenblock die zur Fouriertransformation benutzt werden. Je größer der Block umso genauer wird die Frequenzauflösung im unteren Frequenzbereich, allerdings steigt auch die Rechenleistung deiner App.</p>
 
 <h3>Binning:</h3>
-<p>Samples werden zusammengefasst, bevor sie in den Block gefüllt werden (2 bedeutet dass 2 benachbarte Samples zu einem zusammengefasst werden. Mit höheren Werten wird die Frequenzauflösung im unteren Frequenzbereich besser, jedoch sinkt die Frequenz für die sinnvolle Werte darstellbar sind. Für einen Binning Faktor von zwei fällt sie etwa von ca. 22 kHz auf 11 kHz. Für unsere Stimme ist jedoch der Bereich zwischen wenigen Hz bis hin zu etwa 8 kHz relevant.</p>
+<p>Samples werden zusammengefasst, bevor sie in den Block gefüllt werden. Ein Binning von 2 bedeutet dass 2 benachbarte Samples zu einem Wert zusammengefasst werden. Mit höherem Binning wird die Frequenzauflösung im unteren Frequenzbereich besser, jedoch sinkt die obere Frequenz für die sinnvolle Werte darstellbar sind. Für einen Binning von 2 fällt sie etwa von ca. 22 kHz auf 11 kHz. Für unsere Stimme ist jedoch der Bereich zwischen wenigen Hz bis hin zu etwa 8 kHz relevant.</p>
 </div>
