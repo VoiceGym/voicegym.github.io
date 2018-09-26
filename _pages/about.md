@@ -38,6 +38,6 @@ Saskia ist eine Informatikerin und Softwareentwicklerin.
 Yvonne ist eine Physikerin die jetzt irgendwie in der Softwareentwicklung gelandet ist.
 
 
-## Lizens
+## Lizenz
 
-Unser Code ist mit der GPL v3.0 Lizens lizensiert. Für die Stimmübungen haben wir noch keine Entscheidung getroffen.
+Unser Code ist mit der GPL v3.0 Lizenz lizensiert. Für die Stimmübungen haben wir noch keine Entscheidung getroffen.
